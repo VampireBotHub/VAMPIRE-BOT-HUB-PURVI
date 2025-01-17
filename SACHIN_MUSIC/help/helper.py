@@ -33,7 +33,7 @@ class Helper(object):
 ❍ /ask ➠ ǫυєʀɪєs ᴛʜє ᴧɪ ϻσᴅєʟ ᴛσ ɢєᴛ ᴧ ʀєsᴘσηsє ᴛσ ʏσυʀ ǫυєsᴛɪση
 
 
-❖ ϻᴧᴅє ʙʏ  ➠ [⌯꯭꯭↬꯭֟፝͝𐏓꯭꯭꯭꯭꯭꯭꯭ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [🍷𓆩𝐕𝐀𝐌𝐏𝐈𝐑𝐄 × 𝐊𝐈𝐍𝐆🇮🇳𓆪🍷  ꯭](https://t.me/llEDITING_ZONEll) **
 '''
 
 
@@ -47,7 +47,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /google ᴘʏʀσɢʀᴧϻ : ʀєᴛυʀη ᴛσᴘ 5 ʀєυsʟᴛs ```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [⌯꯭꯭↬꯭֟፝͝𐏓꯭꯭꯭꯭꯭꯭꯭ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [🍷𓆩𝐕𝐀𝐌𝐏𝐈𝐑𝐄 × 𝐊𝐈𝐍𝐆🇮🇳𓆪🍷 ](https://t.me/llEDITING_ZONEll) **
 '''
 
     HELP_03 = '''```
@@ -58,7 +58,7 @@ class Helper(object):
 
 ❍ /tts : [ᴛєxᴛ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [⌯꯭꯭↬꯭֟፝͝𐏓꯭꯭꯭꯭꯭꯭꯭ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [🍷𓆩𝐕𝐀𝐌𝐏𝐈𝐑𝐄 × 𝐊𝐈𝐍𝐆🇮🇳𓆪🍷 ](https://t.me/llEDITING_ZONEll) **
 '''
 
 
@@ -68,7 +68,7 @@ class Helper(object):
 ❍ /info : ɢєᴛ ɪηғσʀϻᴧᴛɪση ᴧʙσυᴛ ᴧ υsєʀ.
 ❍ /github <υsєʀηᴧϻє> : ɢєᴛ ɪηғσʀϻᴧᴛɪση ᴧʙσυᴛ ᴧ ɢɪᴛʜυʙ υsєʀ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [⌯꯭꯭↬꯭֟፝͝𐏓꯭꯭꯭꯭꯭꯭꯭ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [🍷𓆩𝐕𝐀𝐌𝐏𝐈𝐑𝐄 × 𝐊𝐈𝐍𝐆🇮🇳𓆪🍷 ](https://t.me/llEDITING_ZONEll) **
 '''
 
 
@@ -81,7 +81,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /font Sachin Sanatani```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [⌯꯭꯭↬꯭֟፝͝𐏓꯭꯭꯭꯭꯭꯭꯭ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [🍷𓆩𝐕𝐀𝐌𝐏𝐈𝐑𝐄 × 𝐊𝐈𝐍𝐆🇮🇳𓆪🍷 ](https://t.me/llEDITING_ZONEll) **
 '''
 
     HELP_06 = '''```
@@ -89,7 +89,7 @@ class Helper(object):
 
 **❍ /math ➠ sσʟᴠєs ϻᴧᴛʜєϻᴧᴛɪᴄᴧʟ ᴘʀσʙʟєϻs ᴧηᴅ ǫυᴧᴛɪσηs
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [🍷𓆩𝐕𝐀𝐌𝐏𝐈𝐑𝐄 × 𝐊𝐈𝐍𝐆🇮🇳𓆪🍷 ](https://t.me/llEDITING_ZONEll) **
 '''
 
 
@@ -117,7 +117,7 @@ class Helper(object):
 ❍ /vctag ➠ ᴠσɪᴄє ᴄʜᴧᴛ ɪηᴠɪᴛє ᴛᴧɢ 
 ❍ /vcstop ⇴ sᴛσᴘ ᴛᴧɢ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [🍷𓆩𝐕𝐀𝐌𝐏𝐈𝐑𝐄 × 𝐊𝐈𝐍𝐆🇮🇳𓆪🍷 ](https://t.me/llEDITING_ZONEll) **
 '''
 
 
@@ -128,7 +128,7 @@ class Helper(object):
 ❍ /image ➠ sєᴧʀᴄʜєs ғσʀ ᴧη ɪϻᴧɢє ʙᴧsєᴅ ση ᴧ ɢɪᴠєη ᴋєʏᴡσʀᴅ.
 ❍ /upscale ➠ ʀєᴘʟʏ ᴛσ ᴧη ɪϻᴧɢє ᴛσ υᴘsᴄᴧʟє ɪᴛ ᴧηᴅ ɪϻᴘʀσᴠє ɪᴛs ǫυᴧʟɪᴛʏ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [🍷𓆩𝐕𝐀𝐌𝐏𝐈𝐑𝐄 × 𝐊𝐈𝐍𝐆🇮🇳𓆪🍷 ](https://t.me/llEDITING_ZONEll) **
 '''
 
 
@@ -142,7 +142,7 @@ class Helper(object):
 
 ❍ /hastag : [ᴛєxᴛ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [🍷𓆩𝐕𝐀𝐌𝐏𝐈𝐑𝐄 × 𝐊𝐈𝐍𝐆🇮🇳𓆪🍷 (https://t.me/llEDITING_ZONEll) **
 '''
 
 
@@ -152,7 +152,7 @@ class Helper(object):
 **❍ /packkang ➠ ᴄʀєᴧᴛєs ᴧ ᴘᴧᴄᴋ σғ sᴛɪᴄᴋєʀs ғʀσϻ ᴧ σᴛʜєʀ ᴘᴧᴄᴋ
 ❍ /stickerid ➠ ɢєᴛs ᴛʜє sᴛɪᴄᴋєʀ ɪᴅ σғ ᴧ sᴛɪᴄᴋєʀ
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [ 🍷𓆩𝐕𝐀𝐌𝐏𝐈𝐑𝐄 × 𝐊𝐈𝐍𝐆🇮🇳𓆪🍷 ](https://t.me/llEDITING_ZONEll) **
 '''
 
 
@@ -177,7 +177,7 @@ class Helper(object):
 ❍ /boobs [ᴄʜєᴄᴋ ʏσυʀ ʙσσʙɪєs sɪᴢє]
 ❍ /dick [ᴄʜєᴄᴋ ʏσυʀ ᴅɪᴄᴋ sɪᴢє]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [🍷𓆩𝐕𝐀𝐌𝐏𝐈𝐑𝐄 × 𝐊𝐈𝐍𝐆🇮🇳𓆪🍷 ](https://t.me/llEDITING_ZONEll) **
 '''
 
 
@@ -189,7 +189,7 @@ class Helper(object):
 ❍ /q : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє
 ❍ /q r : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє ᴡɪᴛʜ ʀєᴘʟʏ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ 🍷𓆩𝐕𝐀𝐌𝐏𝐈𝐑𝐄 × 𝐊𝐈𝐍𝐆🇮🇳𓆪🍷 ](https://t.me/llEDITING_ZONEll) **
 '''
 
 
@@ -201,7 +201,7 @@ class Helper(object):
 ❍ /truth : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴛʀυᴛʜ sᴛʀɪηɢ
 ❍ /dare : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴅᴧʀє sᴛʀɪηɢ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ 🍷𓆩𝐕𝐀𝐌𝐏𝐈𝐑𝐄 × 𝐊𝐈𝐍𝐆🇮🇳𓆪🍷 ](https://t.me/llEDITING_ZONEll) **
 '''
 
 
@@ -230,7 +230,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ 🍷𓆩𝐕𝐀𝐌𝐏𝐈𝐑𝐄 × 𝐊𝐈𝐍𝐆🇮🇳𓆪🍷 ](https://t.me/llEDITING_ZONEll) **
 '''
 
     HELP_15 = '''```
@@ -239,7 +239,7 @@ class Helper(object):
 **❍ /kick <userhandle> : ᴋɪᴄᴋs ᴧ υsєʀ συᴛ σғ ᴛʜє ɢʀσυᴘ, (ᴠɪᴧ ʜᴧηᴅʟє, σʀ ʀєᴘʟʏ)
 ❍ /kickme: ᴋɪᴄᴋs ᴛʜє υsєʀ ᴡʜσ ɪssυєᴅ ᴛʜє ᴄσϻϻᴧηᴅ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [🍷𓆩𝐕𝐀𝐌𝐏𝐈𝐑𝐄 × 𝐊𝐈𝐍𝐆🇮🇳𓆪🍷 ](https://t.me/llEDITING_ZONEll) **
 '''
 
 
@@ -256,7 +256,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [🍷𓆩𝐕𝐀𝐌𝐏𝐈𝐑𝐄 × 𝐊𝐈𝐍𝐆🇮🇳𓆪🍷 ](https://t.me/llEDITING_ZONEll) **
 '''
 
 
@@ -271,7 +271,7 @@ class Helper(object):
 ❍ /pinned ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ᴘɪηηєᴅ ϻєssᴧɢє ɪη ᴛʜє ɢʀσυᴘ
 ❍ /unpin ➠ υηᴘɪηs ᴛʜє ᴄυʀʀєηᴛʟʏ ᴘɪηηєᴅ ϻєssᴧɢє
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [🍷𓆩𝐕𝐀𝐌𝐏𝐈𝐑𝐄 × 𝐊𝐈𝐍𝐆🇮🇳𓆪🍷 ](https://t.me/llEDITING_ZONEll) **
 '''
 
 
@@ -281,7 +281,7 @@ class Helper(object):
 **❍ /staff ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ sᴛᴧғғ ϻєϻʙєʀs
 ❍ /bots ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ ʙσᴛs ɪη ᴛʜє ɢʀσυᴘ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ 🍷𓆩𝐕𝐀𝐌𝐏𝐈𝐑𝐄 × 𝐊𝐈𝐍𝐆🇮🇳𓆪🍷 ](https://t.me/llEDITING_ZONEll) **
 '''
 
 
